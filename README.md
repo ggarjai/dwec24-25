@@ -133,7 +133,7 @@
 
 ## 1.8 Compatibilidad entre navegadores
 
-- Como podemos comprobar en la siguiente imagen, el uso de Javascript está soportado por la mayoría de las versiones de los navegadores actuales desde aproximadamente 2016. Esto lo hace una excelente opcion para crear una página web, exceptuando Internet Explorer (actualmente en desuso) y opera mini, que tiene una arquitectura de diseño específica que puede afectar a su soporte para JavaScript.
+- Como podemos comprobar en la siguiente imagen, el uso de Javascript está soportado por la mayoría de las versiones de los navegadores actuales en su totalidad exceptuando Internet Explorer (actualmente en desuso) y opera mini, que tiene una arquitectura de diseño específica que puede afectar a su soporte para JavaScript. Esto lo hace una excelente opcion para crear una página web.
 
 ![Web browsers compatibilities with JavaScript Image](img/wbcompjs.png)
 
